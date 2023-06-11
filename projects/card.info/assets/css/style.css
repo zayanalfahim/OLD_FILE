@@ -69,7 +69,7 @@ img {
   box-shadow: 0 8px 32px hsla(178, 55%, 20%, 0.15);
 }
 .card__img {
-  width: 90px;
+  width: 105px;
 }
 .card__border {
   width: 124px;
@@ -127,7 +127,7 @@ img {
   transition: opacity 0.3s;
 }
 .info__img {
-  width: 45px;
+  width: 55px;
 }
 .info__border {
   width: 64px;
